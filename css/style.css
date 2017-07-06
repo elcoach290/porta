@@ -1,0 +1,14 @@
+body{
+	margin: 0;
+}
+
+.gallery{
+	list-style: none;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+}
+
+	.gallery__item{
+		margin: 15px 30px;
+	}
